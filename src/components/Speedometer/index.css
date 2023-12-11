@@ -1,0 +1,51 @@
+.bgContainer {
+  background-color: #07080c;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: white;
+  font-size: 24px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.image {
+  height: 180px;
+  width: 90%;
+}
+.paragraph {
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+}
+.para {
+  color: white;
+  font-size: 13px;
+}
+.insideClass {
+  display: flex;
+  flex-direction: row;
+}
+.button1 {
+  background-color: #0b69ff;
+  color: white;
+  height: 40px;
+  width: 130px;
+  font-size: 13px;
+  margin-right: 10px;
+  border-radius: 8px;
+}
+.button2 {
+  background-color: transparent;
+  height: 40px;
+  width: 130px;
+  font-size: 13px;
+  color: #94a3b8;
+  border-width: 2px;
+  border-color: #94a3b8;
+  border-radius: 8px;
+}
